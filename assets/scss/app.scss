@@ -1,0 +1,15 @@
+@import 'font-awesome';
+@import 'themify';
+@import 'vue2-animate/dist/vue2-animate.min.css';
+@import 'vue-image-lightbox/dist/vue-image-lightbox.min.css';
+@import 'theme/variables';
+:root {
+    --theme-deafult: #ff4c3b;
+    // This gradient color only for gym layout
+    --theme-gradient1: #01effc;
+    --theme-gradient2: #485ff2;
+  }
+@import 'theme/style';
+@import 'theme/theme-dark';
+@import 'theme/menu';
+@import 'theme/responsive';
